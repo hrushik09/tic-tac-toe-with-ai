@@ -27,4 +27,4 @@ Accepted modes are:
 
 Program stops when either player wins or the game results in a draw.
 #
-This program is based on the Simple Tic-Tac-Toe project on [Jet Brains Academy](https://hyperskill.org).
+This program is based on the Tic-Tac-Toe with AI project on [Jet Brains Academy](https://hyperskill.org).
